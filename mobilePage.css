@@ -17,6 +17,59 @@
     .navbar{
         column-gap: 39rem;
     }
+    .first_content{
+        flex-direction: column;
+    }
+    #collab{
+        padding: 10px;
+        margin-left: 1rem;
+        margin-right: 2rem;
+        width: 85rem;
+        height: 40rem;
+    }
+    #loop_image{
+        display: none;
+    }
+    .first_content span{
+        margin: 10px 4rem 0px 4rem;
+        font-size: 3rem;
+    }
+    .second_content span{
+        margin: 45px 4rem 45px 4rem;
+        font-size: 3rem;
+    }
+    .footline{
+        font-size: 3rem;
+        margin-left: 1.5rem;
+    }
+    .hr_line{
+        margin-top: 1.7rem;
+        width: 35rem;
+    }
+    .foot_main{
+        flex-direction: column;
+        row-gap: 6.8rem;
+        font-size: 2.8rem;
+        margin-bottom: 30px;
+    }
+    .img_foot img{
+        height: 15rem;
+        width: 15rem;
+        margin-bottom: 10px;
+    }
+
+    .social{
+        font-size: 3.2rem;
+    }
+    .help{
+        font-size: 3.2rem;
+    }
+    .visit{
+        font-size: 3.2rem;
+    }
+    #Visit_head{
+        font-size: 3.4rem;
+    }
 }
 
 /* 4th Media */
